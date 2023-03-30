@@ -9,7 +9,9 @@ namespace ConexionSQL
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            //probando si pudomos hacer un repositorio local
+
+            //siuuuuuuuuuu
         }
 
 
